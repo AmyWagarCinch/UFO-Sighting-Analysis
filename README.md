@@ -14,7 +14,7 @@ We have a variety of questions to look at and start our analysis, each of which 
 
 	What are the most common shapes?
 	    Cleaning up the shape data of our dataset to combine similar values, we can run an simple analysis to find what the most sighted shapes of UFO are.
-	    Team Member: Julie
+	    Team Member: Amy
 
 	What dates/times produce more UFO sightings?
 	    By grouping our data into specific date periods (months, seasons) and time periods (day vs. night, dusk vs. dawn, middle of the night, etc.), we can narrow down what the best dates/times to be looking up at the sky are.
