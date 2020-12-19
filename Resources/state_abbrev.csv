@@ -1,51 +1,51 @@
-state,abbrev
-Alabama,al
-Alaska,ak
-Arizona,az
-Arkansas,ar
-California,ca
-Colorado,co
-Connecticut,ct
-Delaware,de
-Florida,fl
-Georgia,ga
-Hawaii,hi
-Idaho,id
-Illinois,il
-Indiana,in
-Iowa,ia
-Kansas,ks
-Kentucky,ky
-Louisiana,la
-Maine,me
-Maryland,md
-Massachusetts,ma
-Michigan,mi
-Minnesota,mn
-Mississippi,ms
-Missouri,mo
-Montana,mt
-Nebraska,ne
-Nevada,nv
-New Hampshire,nh
-New Jersey,nj
-New Mexico,nm
-New York,ny
-North Carolina,nc
-North Dakota,nd
-Ohio,oh
-Oklahoma,ok
-Oregon,or
-Pennsylvania,pa
-Rhode Island,ri
-South Carolina,sc
-South Dakota,sd
-Tennessee,tn
-Texas,tx
-Utah,ut
-Vermont,vt
-Virginia,va
-Washington,wa
-West Virginia,wv
-Wisconsin,wi
-Wyoming,wy
+State,abbrev,Population
+Alabama,al,4903185
+Alaska,ak,731545
+Arizona,az,7278717
+Arkansas,ar,3017804
+California,ca,39512223
+Colorado,co,5758736
+Connecticut,ct,3565287
+Delaware,de,973764
+Florida,fl,21477737
+Georgia,ga,10617423
+Hawaii,hi,1415872
+Idaho,id,1787065
+Illinois,il,12671821
+Indiana,in,6732219
+Iowa,ia,3155070
+Kansas,ks,2913314
+Kentucky,ky,4467673
+Louisiana,la,4648794
+Maine,me,1344212
+Maryland,md,6045680
+Massachusetts,ma,6892503
+Michigan,mi,9986857
+Minnesota,mn,5639632
+Mississippi,ms,2976149
+Missouri,mo,6137428
+Montana,mt,1068778
+Nebraska,ne,1934408
+Nevada,nv,3080156
+New Hampshire,nh,1359711
+New Jersey,nj,8882190
+New Mexico,nm,2096829
+New York,ny,19453561
+North Carolina,nc,10488084
+North Dakota,nd,762062
+Ohio,oh,11689100
+Oklahoma,ok,3956971
+Oregon,or,4217737
+Pennsylvania,pa,12801989
+Rhode Island,ri,1059361
+South Carolina,sc,5148714
+South Dakota,sd,884659
+Tennessee,tn,6829174
+Texas,tx,28995881
+Utah,ut,3205958
+Vermont,vt,623989
+Virginia,va,8535519
+Washington,wa,7614893
+West Virginia,wv,1792147
+Wisconsin,wi,5822434
+Wyoming,wy,578759
